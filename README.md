@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Chengwu Li  
-🏃 Marathon Runner | 🏀 Basketball Fan | 🧑‍💻 iOS Developer with 12+ Years of Experience  | 📍 Xi'an, China
+🏃 Marathon Runner | 🏀 Basketball Fan | 🧑‍💻 iOS Developer | 📍 Xi'an, China
 
 ### 💼 **About Me**
 - 🔥 Experienced in developing apps with millions of users, focusing on architecture design, performance optimization, and feature development. 
